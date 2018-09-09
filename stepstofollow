@@ -1,0 +1,12 @@
+
+1. Call the URL : http://localhost/WORKSPACE/PG/Paystack/Payment/make_payment
+
+2. Enter Cards details:
+
+
+  Test cards to test errors:Follow the link:
+https://developers.paystack.co/docs/test-cards
+
+
+1 Add paystack library into libraries folder
+2 call the secret keys in controller
