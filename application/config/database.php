@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-echo "strictiu7f7tfi7ing";
+echo "";
 /*
 | -------------------------------------------------------------------
 | DATABASE CONNECTIVITY SETTINGS
